@@ -38,8 +38,8 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation 'com.google.android.material:material:1.0.0'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
-//    implementation project(':SensorsAnalyticsSDK')
-    implementation 'com.sensorsdata.analytics.android:SensorsAnalyticsSDK:3.0.5'
-//    implementation 'com.github.wpetke:scdata:1.0'
+    implementation project(':SensorsAnalyticsSDK')
+//    implementation 'com.sensorsdata.analytics.android:SensorsAnalyticsSDK:3.0.5'
+//    implementation 'com.github.wpetke:scdata:1.1'
 
 }

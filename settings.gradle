@@ -1,2 +1,2 @@
-//include ':SensorsAnalyticsSDK', ':demo'
-include ':demo'
+include ':SensorsAnalyticsSDK', ':demo'
+//include ':demo'
